@@ -1,7 +1,7 @@
 ## Hi there, I'm João! 👋
 
 ### About Me 🌐
-Welcome to my GitHub page! I am currently a Graduate Research Assistant at the [Institute of Energy and Environment, University of São Paulo](https://www.iee.usp.br/), where I'm pursuing my research with support from a scholarship provided by the [Brazilian National Agency for Petroleum, Natural Gas and Biofuels (ANP)](https://www.gov.br/anp/en/access-information/what-is-anp/what-is-anp). My previous experience includes working on projects that integrate geophysical and geological data for fracking in the oil and gas sectors. I'm interested in data science, geoscience, statistics, and industry related problems.
+I am currently a Graduate Research Assistant at the [Institute of Energy and Environment, University of São Paulo](https://www.iee.usp.br/), where I'm pursuing my research with support from a scholarship provided by the [Brazilian National Agency for Petroleum, Natural Gas and Biofuels (ANP)](https://www.gov.br/anp/en/access-information/what-is-anp/what-is-anp). My previous experience includes working on projects that integrate geophysical and geological data for fracking in the oil and gas sectors. I'm interested in data science, geoscience, statistics, and industry related problems.
 
 ### Tech Toolbox 🛠️
 - **Languages:** C, Python, R, VBA, SQL
