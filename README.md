@@ -13,9 +13,10 @@ I am currently a Graduate Research Assistant at the [Institute of Energy and Env
 - **Bachelors in Geophysics**, University of São Paulo (2021)
 
 ### Projects 🚀
-- [ML Applied to Petrophysics](https://github.com/jp-alves/scripts_papers/tree/main/petrophysics_basalts): Application of machine learning methods for petrophysical prediction (density, porosity, and permeability) in basalts of the Serra Geral Group: Implications for carbon storage.\
+- [ML Applied to Petrophysics](https://github.com/jp-alves/ml_basalts_ccs/tree/main): Application of machine learning methods for petrophysical prediction (density, porosity, and permeability) in basalts of the Serra Geral Group: Implications for carbon storage.
 
 - 🔭 I’m currently working on this page.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-alves)](https://github.com/anuraghazra/github-readme-stats)
 
