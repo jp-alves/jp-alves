@@ -4,9 +4,9 @@
 I am currently a Graduate Research Assistant at the [Institute of Energy and Environment, University of São Paulo](https://www.iee.usp.br/), where I'm pursuing my Masters in Energy with support from a scholarship provided by the [Brazilian National Agency for Petroleum, Natural Gas and Biofuels (ANP)](https://www.gov.br/anp/en/access-information/what-is-anp/what-is-anp). My previous experience includes working on projects that integrate geophysical and geological data for fracking in the oil and gas. I'm interested in data science, geoscience, statistics, and industry related problems.
 
 ### Tech Toolbox 🛠️
-- **Languages:** C, Python, R, VBA, SQL
+- **Languages:** C, Python, R, VBA
 - **Python and R Libraries:** NumPy, Pandas, Matplotlib, Scikit-Learn, dplyr, ggplot2
-- **Tools:** Excel, Office, Power BI, QGIS, Surfer, Oasis Montaj, Res2DInv, Git
+- **Tools:** Excel, Office, Power BI, QGIS, Surfer, Oasis Montaj, Res2DInv, Git, SQL
 
 ### Education 🎓
 - **Masters in Energy**, University of São Paulo (Sep 2024)
