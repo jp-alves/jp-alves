@@ -17,9 +17,6 @@ I am currently a Graduate Research Assistant at the [Institute of Energy and Env
 
 - 🔭 I’m currently working on this page.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-alves)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
 	<img src="https://github.com/jp-alves/jp-alves/blob/main/Images/geo_meme.jpg" height="350">
 </div>
