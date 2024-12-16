@@ -14,6 +14,7 @@ I am currently a Graduate Research Assistant at the [Institute of Energy and Env
 
 ### Projects 🚀
 - [ML Applied to Petrophysics](https://github.com/jp-alves/ml_basalts_ccs/tree/main): Application of machine learning methods for petrophysical prediction (density, porosity, and permeability) in basalts of the Serra Geral Group: Implications for carbon storage.
+- [SQL Murder Mystery](https://github.com/jp-alves/SQL_Murder_Mystery): Investigation case solved using SQL queries to analyze crime scene data across multiple database tables, demonstrating practical SQL analysis skills.
 
 - 🔭 I’m currently working on this page.
 
