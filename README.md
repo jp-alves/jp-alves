@@ -17,6 +17,7 @@ I am currently a Graduate Research Assistant at the [Institute of Energy and Env
 - [Magnetic Lineament Clustering](https://github.com/jp-alves/LineamentsJNB): Demonstrates the use of Jenks Natural Breaks for segmenting magnetic lineaments into structural families, coupled with statistical validation and geospatial visualization in Python.
 - [SQL Murder Mystery](https://github.com/jp-alves/SQL_Murder_Mystery): Investigation case solved using SQL queries to analyze crime scene data across multiple database tables, demonstrating practical SQL analysis skills.
 - [Brazilian Flights SQL Exploration](https://github.com/jp-alves/BrazilianFlightsSQL): SQL analysis of 14.7 M Brazilian flight legs (2000-2023) with DuckDB & Jupyter, revealing traffic growth, hub dominance, scheduling patterns, and delay hotspots.
+- [Basalt Porosity-Permeability Modelling](https://github.com/jp-alves/RegressionPetro): End-to-end notebooks that cleans petrophysics data, fixes multicollinearity with Legendre polynomials, and delivers vp-porosity and porosity-permeability curves with uncertainty bands—critical for rapid CCS site screening in Paraná-Basin basalts.
 
 - 🔭 I’m currently working on this page.
 
