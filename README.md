@@ -18,6 +18,7 @@ I am currently a Graduate Research Assistant at the [Institute of Energy and Env
 - [SQL Murder Mystery](https://github.com/jp-alves/SQL_Murder_Mystery): Investigation case solved using SQL queries to analyze crime scene data across multiple database tables, demonstrating practical SQL analysis skills.
 - [Brazilian Flights SQL Exploration](https://github.com/jp-alves/BrazilianFlightsSQL): SQL analysis of 14.7 M Brazilian flight legs (2000-2023) with DuckDB & Jupyter, revealing traffic growth, hub dominance, scheduling patterns, and delay hotspots.
 - [Basalt Porosity-Permeability Modelling](https://github.com/jp-alves/RegressionPetro): End-to-end notebooks that cleans petrophysics data, fixes multicollinearity with Legendre polynomials, and delivers vp-porosity and porosity-permeability curves with uncertainty bands—critical for rapid CCS site screening in Paraná-Basin basalts.
+- [Sentiment-Driven Stock Returns – PRIO3](https://github.com/jp-alves/prio3-sentiment): End-to-end analysis combining Portuguese news sentiment (FinBERT-PT-BR) with PRIO3 stock prices (2015–2024), featuring NLP, forward return modeling, violin plots, event-study curves, and Granger causality tests for financial signal discovery.
 
 - 🔭 I’m currently working on this page.
 
